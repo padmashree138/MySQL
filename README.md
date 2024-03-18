@@ -35,19 +35,23 @@ I learnt About :
 
 15. Compound Join Conditions : used to uniquely identify the column when there are simmilar id's in the column
 16. Outer Joins : used to combine rows from another table (can be done from right or left)
+     1) The code contains : 
+     * outer joins
+     * outer join with multiple tables,
+     *  self outer joins
     ![Outer Joins](https://github.com/padmashree138/MySQL/assets/156641444/be8031dc-05a6-44cf-ac8b-2771c3a2ecc6)
 
-17. Outer Joins Between Multiple Tables : used to get data from multiple table at a time
-18. Using Clause : used instead of ON clause
+18. Outer Joins Between Multiple Tables : used to get data from multiple table at a time
+19. Using Clause : used instead of ON clause
     ![Using Clause](https://github.com/padmashree138/MySQL/assets/156641444/18b8cdfd-5dfe-42e6-90a6-8161e86a02ee)
 
-19. Natural Joins : joins the table based on the common column
-20. Cross Joins : used to combine data in database
-21. Union :  used for combining rows form the table
+20. Natural Joins : joins the table based on the common column
+21. Cross Joins : used to combine data in database
+22. Union :  used for combining rows form the table
     ![Unions](https://github.com/padmashree138/MySQL/assets/156641444/947c03e4-b6a0-4ad1-894f-47ed9ec9ad67)
 
-22. Inserting single and multiple rows
-23. Inserting hierarchical rows
-24. Creating copy of table
-25. Updating and deleting rows
-26. Restoring database
+23. Inserting single and multiple rows
+24. Inserting hierarchical rows
+25. Creating copy of table
+26. Updating and deleting rows
+27. Restoring database
